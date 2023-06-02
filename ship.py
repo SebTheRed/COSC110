@@ -1,5 +1,5 @@
 #Sebastian Belfonti
-#COSC 110-821
+#COSC 110-821 Assignment 2
 #This class instantializes with a user input of weight.
 #The weight is then assigned to a variable that is then passed through a series of if statements.
 #It's important to start with the highest weight to ensure the logic is passed down correctly.

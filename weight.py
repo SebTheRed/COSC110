@@ -1,5 +1,5 @@
 #Sebastian Belfonti
-#COSC 110-821
+#COSC 110-821 Assignment 2
 #This class is instantialized with an input (as a float) from the user.
 #This input is then multiplied by 9.8 to create the weight aka Newtons.
 #The user is then alerted whether or not the weight is too heavy, too light, or just right.
